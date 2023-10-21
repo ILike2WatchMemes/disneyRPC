@@ -1,2 +1,2 @@
 # disneyRPC
-A Discord RPC for Disney+.
+`A Discord RPC for Disney+`
